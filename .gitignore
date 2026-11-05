@@ -1,0 +1,22 @@
+# Ambientes virtuais e cache Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Credenciais, segredos e tokens (NUNCA versionar)
+.env
+token.txt
+google_client_secret.json
+*secret*.json
+*token*.json
+spark_link.txt
+
+# Binários locais e arquivos pesados
+cloudflared.exe
+*.exe
+
+# Logs e documentos pessoais locais
+*.log
+*.docx

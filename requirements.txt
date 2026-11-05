@@ -1,0 +1,5 @@
+mcp>=1.6.0
+uvicorn>=0.30.0
+pandas>=2.2.0
+python-dotenv>=1.0.1
+facebook-business>=20.0.0
